@@ -3,8 +3,8 @@
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.text.*?>
 
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" styleClass="mainMenu" stylesheets="@style.css" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1">
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" styleClass="mainMenu" stylesheets="@./syles/style.css" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1">
    <children>
-      <Text fill="RED" layoutX="100.0" layoutY="42.0" strokeType="OUTSIDE" strokeWidth="0.0" text="PPP" textAlignment="CENTER" wrappingWidth="403.162109375" />
+      <Text fill="RED" layoutX="100.0" layoutY="42.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="mainMenu" text="Brisca" textAlignment="CENTER" wrappingWidth="403.162109375" />
    </children>
 </AnchorPane>
